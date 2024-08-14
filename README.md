@@ -1,2 +1,1 @@
-Made a simple portfolio website using HTML, CSS and JavaScript
-Hosted using GitHub pages
+Made a simple portfolio website using HTML, CSS and JavaScript and Hosted using GitHub pages
